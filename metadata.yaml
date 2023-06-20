@@ -1,0 +1,27 @@
+_repo: Printing-and-bookbinding-for-schools_70980
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaughn, S. J.
+    gutenberg_agent_id: '56022'
+    url: http://www.gutenberg.org/2009/agents/56022
+description: ''
+gutenberg_issued: '2023-06-15'
+identifiers:
+  gutenberg: '70980'
+language: en
+pgterms:marc904: https://archive.org/details/printingbookbind00vaugrich
+pgterms:marc905: 20220413151655vaughn
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bPublic School Publishing Co., $c1912, pubdate
+  1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Printing and bookbinding for schools
+url: http://www.gutenberg.org/ebooks/70980
