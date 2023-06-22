@@ -1,11 +1,16 @@
 _repo: Printing-and-bookbinding-for-schools_70980
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70980-h/images/cover.jpg
 creator:
   author:
     agent_name: Vaughn, S. J.
     gutenberg_agent_id: '56022'
     url: http://www.gutenberg.org/2009/agents/56022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70980#Printing-and-bookbinding-for-schools
 gutenberg_issued: '2023-06-15'
 identifiers:
   gutenberg: '70980'
